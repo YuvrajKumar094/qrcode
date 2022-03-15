@@ -1,1 +1,1 @@
-# qrcode
+# qrcode-in-python
